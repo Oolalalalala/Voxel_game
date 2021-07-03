@@ -26,5 +26,8 @@ Gameplay :
     向上移動 : space  
     向下移動 : 左shift  
 
+Press ESC to exit the program, move the mouse to turn the camera  
+按下ESC鍵以退出程式，移動滑鼠來在遊戲中轉動鏡頭  
+
 Warning : The program will only work on Windows, MacOS is not supported  
 注意 : 此程式只支援Windows作業系統，無法在MacOS上執行
