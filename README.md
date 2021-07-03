@@ -1,5 +1,5 @@
 # Voxel_game
-This is my own minecraft-like project
+This is my own minecraft-like project;
 這是我自己做的類minecraft遊戲
 
 No game engine is used in the process of making the game
