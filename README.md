@@ -25,6 +25,9 @@ Gameplay :
     向右移動 : d  
     向上移動 : space  
     向下移動 : 左shift  
+    
+Notice : Switch the language to English
+注意 : 將語言切換成英文才得以操控
 
 Press ESC to exit the program, move the mouse to turn the camera  
 按下ESC鍵以退出程式，移動滑鼠來在遊戲中轉動鏡頭  
